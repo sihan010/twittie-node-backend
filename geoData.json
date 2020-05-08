@@ -1,0 +1,263 @@
+[
+  {
+    "place": "Quebec, CA",
+    "woeid": 3444,
+    "geoData": {
+      "annotations": {
+        "DMS": { "lat": "45° 25' 15.98160'' N", "lng": "75° 41' 25.10880'' W" },
+        "MGRS": "18TVR4599329963",
+        "Maidenhead": "FN25dk71db",
+        "Mercator": { "x": -8425806.545, "y": 5657614.033 },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=18886011#map=16/45.42111/-75.69031",
+          "url": "https://www.openstreetmap.org/?mlat=45.42111&mlon=-75.69031#map=16/45.42111/-75.69031"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "CA": "124",
+            "NORTHERN_AMERICA": "021",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 1,
+        "currency": {
+          "alternate_symbols": ["C$", "CAD$"],
+          "decimal_mark": ".",
+          "disambiguate_symbol": "C$",
+          "html_entity": "$",
+          "iso_code": "CAD",
+          "iso_numeric": "124",
+          "name": "Canadian Dollar",
+          "smallest_denomination": 5,
+          "subunit": "Cent",
+          "subunit_to_unit": 100,
+          "symbol": "$",
+          "symbol_first": 1,
+          "thousands_separator": ","
+        },
+        "flag": "🇨🇦",
+        "geohash": "f244msevpgzenu7ewdbs",
+        "qibla": 57.17,
+        "roadinfo": { "drive_on": "right", "speed_in": "km/h" },
+        "sun": {
+          "rise": {
+            "apparent": 1573819320,
+            "astronomical": 1573813200,
+            "civil": 1573817400,
+            "nautical": 1573815300
+          },
+          "set": {
+            "apparent": 1573853520,
+            "astronomical": 1573859640,
+            "civil": 1573855440,
+            "nautical": 1573857600
+          }
+        },
+        "timezone": {
+          "name": "America/Toronto",
+          "now_in_dst": 0,
+          "offset_sec": -18000,
+          "offset_string": "-0500",
+          "short_name": "EST"
+        },
+        "what3words": { "words": "post.kicked.octopus" },
+        "wikidata": "Q1930"
+      },
+      "bounds": {
+        "northeast": { "lat": 45.581106, "lng": -75.530308 },
+        "southwest": { "lat": 45.261106, "lng": -75.850308 }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "CA",
+        "ISO_3166-1_alpha-3": "CAN",
+        "_type": "city",
+        "city": "Ottawa",
+        "continent": "North America",
+        "country": "Canada",
+        "country_code": "ca",
+        "postcode": "K1P 1J1",
+        "state": "Ontario",
+        "state_code": "ON",
+        "state_district": "Eastern Ontario"
+      },
+      "confidence": 3,
+      "formatted": "Ottawa, ON K1P 1J1, Canada",
+      "geometry": { "lat": 45.421106, "lng": -75.690308 }
+    }
+  },
+  {
+    "place": "Montreal, CA",
+    "woeid": 3534,
+    "geoData": {
+      "annotations": {
+        "DMS": { "lat": "52° 28' 33.92112'' N", "lng": "71° 49' 33.12048'' W" },
+        "MGRS": "19UCU0808717747",
+        "Maidenhead": "FO42cl04vg",
+        "Mercator": { "x": -7995618.918, "y": 6852759.387 },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?relation=61549#map=16/52.47609/-71.82587",
+          "url": "https://www.openstreetmap.org/?mlat=52.47609&mlon=-71.82587#map=16/52.47609/-71.82587"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "CA": "124",
+            "NORTHERN_AMERICA": "021",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 1,
+        "currency": {
+          "alternate_symbols": ["C$", "CAD$"],
+          "decimal_mark": ".",
+          "disambiguate_symbol": "C$",
+          "html_entity": "$",
+          "iso_code": "CAD",
+          "iso_numeric": "124",
+          "name": "Canadian Dollar",
+          "smallest_denomination": 5,
+          "subunit": "Cent",
+          "subunit_to_unit": 100,
+          "symbol": "$",
+          "symbol_first": 1,
+          "thousands_separator": ","
+        },
+        "flag": "🇨🇦",
+        "geohash": "f3kft8czrupcjw513s99",
+        "qibla": 60.23,
+        "roadinfo": { "drive_on": "right", "speed_in": "km/h" },
+        "sun": {
+          "rise": {
+            "apparent": 1573819800,
+            "astronomical": 1573812600,
+            "civil": 1573817520,
+            "nautical": 1573815000
+          },
+          "set": {
+            "apparent": 1573851240,
+            "astronomical": 1573858380,
+            "civil": 1573853460,
+            "nautical": 1573855980
+          }
+        },
+        "timezone": {
+          "name": "America/Toronto",
+          "now_in_dst": 0,
+          "offset_sec": -18000,
+          "offset_string": "-0500",
+          "short_name": "EST"
+        },
+        "what3words": { "words": "edited.recyclable.ruthlessly" },
+        "wikidata": "Q176"
+      },
+      "bounds": {
+        "northeast": { "lat": 62.5804863, "lng": -57.1054864 },
+        "southwest": { "lat": 44.9913689, "lng": -79.774135 }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "CA",
+        "ISO_3166-1_alpha-3": "CAN",
+        "_type": "state",
+        "continent": "North America",
+        "country": "Canada",
+        "country_code": "ca",
+        "state": "Quebec",
+        "state_code": "QC"
+      },
+      "confidence": 1,
+      "formatted": "QC, Canada",
+      "geometry": { "lat": 52.4760892, "lng": -71.8258668 }
+    }
+  },
+  {
+    "place": "Toronto, CA",
+    "woeid": 4118,
+    "geoData": {
+      "annotations": {
+        "DMS": { "lat": "45° 29' 49.97724'' N", "lng": "73° 36' 37.31112'' W" },
+        "MGRS": "18TXR0857239126",
+        "Maidenhead": "FN35el69sh",
+        "Mercator": { "x": -8194268.26, "y": 5669653.251 },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?relation=1634158#map=17/45.49722/-73.61036",
+          "url": "https://www.openstreetmap.org/?mlat=45.49722&mlon=-73.61036#map=17/45.49722/-73.61036"
+        },
+        "UN_M49": {
+          "regions": {
+            "AMERICAS": "019",
+            "CA": "124",
+            "NORTHERN_AMERICA": "021",
+            "WORLD": "001"
+          },
+          "statistical_groupings": ["MEDC"]
+        },
+        "callingcode": 1,
+        "currency": {
+          "alternate_symbols": ["C$", "CAD$"],
+          "decimal_mark": ".",
+          "disambiguate_symbol": "C$",
+          "html_entity": "$",
+          "iso_code": "CAD",
+          "iso_numeric": "124",
+          "name": "Canadian Dollar",
+          "smallest_denomination": 5,
+          "subunit": "Cent",
+          "subunit_to_unit": 100,
+          "symbol": "$",
+          "symbol_first": 1,
+          "thousands_separator": ","
+        },
+        "flag": "🇨🇦",
+        "geohash": "f25dufw86py0r5fx3es6",
+        "qibla": 58.66,
+        "roadinfo": { "drive_on": "right", "speed_in": "km/h" },
+        "sun": {
+          "rise": {
+            "apparent": 1573818840,
+            "astronomical": 1573812720,
+            "civil": 1573816920,
+            "nautical": 1573814760
+          },
+          "set": {
+            "apparent": 1573852980,
+            "astronomical": 1573859160,
+            "civil": 1573854900,
+            "nautical": 1573857060
+          }
+        },
+        "timezone": {
+          "name": "America/Toronto",
+          "now_in_dst": 0,
+          "offset_sec": -18000,
+          "offset_string": "-0500",
+          "short_name": "EST"
+        },
+        "what3words": { "words": "debating.notion.hints" },
+        "wikidata": "Q340"
+      },
+      "bounds": {
+        "northeast": { "lat": 45.7047897, "lng": -73.4742952 },
+        "southwest": { "lat": 45.4100756, "lng": -73.9741567 }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "CA",
+        "ISO_3166-1_alpha-3": "CAN",
+        "_type": "city",
+        "city": "Montreal",
+        "continent": "North America",
+        "country": "Canada",
+        "country_code": "ca",
+        "county": "Urban agglomeration of Montreal",
+        "region": "Montreal (06)",
+        "state": "Quebec",
+        "state_code": "QC"
+      },
+      "confidence": 3,
+      "formatted": "Montreal, QC, Canada",
+      "geometry": { "lat": 45.4972159, "lng": -73.6103642 }
+    }
+  }
+]
