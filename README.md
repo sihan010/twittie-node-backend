@@ -1,9 +1,19 @@
-# twitter_trends_api_to_database_to_api
 
-create a .env file to project root and make sure following valiables exist...
+*Instructions:*
+> clone repo then,
 
-PORT = 5656 DB_STRING = "mongodb://.............................." 
-TWITTER_CONSUMER_KEY = yva..............Ukz 
-TWITTER_CONSUMER_SECRET = NsH....................hGN 
-TWITTER_ACCESS_TOKEN = 107.........................utZ 
-TWITTER_ACCESS_TOKEN_SECRET = dc9........................dEJ
+ 1. npm install - Install dependency
+ 2. npm start - run dev server
+ 3. npm run nodemon - run dev server with nodemon
+ 4. create .env at project root with following entries-
+ 
+
+    PORT = 5656 
+    DB_STRING = mongodb://-------------------------------------------------/trendytags
+    TWITTER_CONSUMER_KEY = yva----------------------------pgUkz
+    TWITTER_CONSUMER_SECRET = NsHSq5----------------------------tWXBhGN
+    TWITTER_ACCESS_TOKEN = 10760008593334394----------------------------tOfSxOcutZ
+    TWITTER_ACCESS_TOKEN_SECRET = dc982J----------------------------q3s7mMUIdEJ
+    
+    TWITTER_CALLBACK = https://RUNNING_SERVER_ADDRESS/user/granted
+    FRONTEND = https://twittie.herokuapp.com/
